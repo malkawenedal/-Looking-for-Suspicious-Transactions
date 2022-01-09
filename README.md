@@ -20,7 +20,7 @@ This project built to  apply some SQL skills to analyze historical credit card t
   
    Contains (image file of  ERD ,Sql file of  table schema and Sql file of queries.)  
  * [Starter _Files](https://github.com/malkawenedal/HOMEWORK-UNIT_7/tree/main/Starter_Files)  
- Contains ( jupyter Notebook containing visual data analysis and Data file)
+ Contains ( jupyter Notebook that containing visual data analysis and Data file)
 
 
 ## Data Modeling 
@@ -33,7 +33,9 @@ The **chalenge** was "  figuring  out how many tables i should create, as well a
 
 ### Data Analysis
 #### Part 1:
-after joining the card column from creditcard file with card column from transaction file then joining cardholder_id column from cardholder file with cardholder_id fro credit_card file, i was able to get  a this  dataframe . 
+after joining the card column from creditcard file with card column from transaction file then joining cardholder_id column from cardholder file with cardholder_id from credit_card file, i was able to get  a this  dataframe . 
+
+
 ![DF_1](Starter_Files\Data\DF_1.PNG)  
 
 
@@ -41,7 +43,14 @@ now, easyly i can define  the transactionn amount for carholder number 2 & 18 to
 
 ![plot_3](Starter_Files\Data\plot_4.png)  
 
+#### Part 2:
 
+## code& snippet 
+
+![code](Starter_Files\Data\code-1.png)
+
+
+![ch_25](Starter_Files\Data\ch_25_plot.png)
 
 
 
