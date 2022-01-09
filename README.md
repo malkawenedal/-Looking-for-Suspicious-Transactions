@@ -41,7 +41,7 @@ after joining the card column from creditcard file with card column from transac
 
 now, easyly i can define  the transactionn amount for carholder number 2 & 18 to recognize any fraude transaction by plotting them using *hvplot* then combine them in one plot as you see below 
 
-![plot_3](Starter_Files\Data\plot_4.png)  
+![plot_3](Starter_Files\Data\plot_3.png)  
 
 #### Part 2:
 
